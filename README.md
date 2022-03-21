@@ -3,8 +3,8 @@ _____
 This is a fetch practice built with react.
   >Get the data from http://www.raydelto.org/agenda.php and display it using the GET method and send the data using the POST method.
 
-##Project Screen Shoot
-![Screen's project](/Captura.PNG)
+## Project Screen Shoot
+![Screen's project](/agenda_react/src/Captura.PNG/)
 
 ##Instalation instructions
 Clone down this repository. You will need node and npm installed globally on your machine.
